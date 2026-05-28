@@ -1,6 +1,4 @@
 
-
-
 responses = {
     # Greetings
     "hello": "Hello! Welcome to RuleBot.",
