@@ -1,5 +1,4 @@
-# chatbot.py
-# Rule-Based AI Chatbot
+
 
 
 responses = {

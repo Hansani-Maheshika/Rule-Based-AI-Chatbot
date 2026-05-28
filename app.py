@@ -1,5 +1,4 @@
-# app.py
-# Flask backend server for Rule-Based AI Chatbot
+
 
 from flask import Flask, render_template, request, jsonify
 from chatbot import get_response
